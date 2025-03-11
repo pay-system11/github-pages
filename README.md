@@ -1,75 +1,55 @@
-<header>
+支付系统租赁
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+介绍
 
-# GitHub Pages
+在数字化时代，支付系统已成为企业运营的重要组成部分。然而，开发一个完整的支付系统需要专业的技术团队，并涉及安全合规、支付网关集成和系统维护等挑战。因此，支付系统租赁（Payment System Rental，PSR）成为了一种高效且经济的解决方案，适用于各种企业和创业者。
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+为什么选择支付系统租赁？
 
-</header>
+1. 成本效益高
 
-<!--
-  <<< Author notes: Course start >>>
-  Include start button, a note about Actions minutes,
-  and tell the learner why they should take the course.
--->
+从零开发支付系统可能需要投入数十万甚至上百万，而租赁支付系统可以以更低的成本获得稳定成熟的解决方案。
 
-## Welcome
+2. 快速部署
 
-With GitHub Pages, you can host project blogs, documentation, resumes, portfolios, or any other static content you'd like. Your GitHub repository can easily become its own website. In this course, we'll show you how to set up your own site or blog using GitHub Pages.
+传统支付系统开发周期长，而通过 PSR，企业可以快速配置并立即上线支付功能。
 
-- **Who is this for**: Beginners, students, project maintainers, small businesses.
-- **What you'll learn**: How to build a GitHub Pages site.
-- **What you'll build**: We'll build a simple GitHub Pages site with a blog. We'll use [Jekyll](https://jekyllrb.com), a static site generator.
-- **Prerequisites**: If you need to learn about branches, commits, and pull requests, take [Introduction to GitHub](https://github.com/skills/introduction-to-github) first.
-- **How long**: This course takes less than one hour to complete.
+3. 安全与合规
 
-In this course, you will:
+支付交易涉及敏感资金流动，安全性至关重要。值得信赖的支付系统租赁服务商会确保符合行业安全标准，并提供定期维护，降低风险。
 
-1. Enable GitHub Pages
-2. Configure your site
-3. Customize your home page
-4. Create a blog post
-5. Merge your pull request
+4. 灵活定价
 
-### How to start this course
+PSR 服务通常提供按月或按年租赁计划，甚至支持按交易量计费，企业可以根据自身需求选择最适合的方案。
 
-<!-- For start course, run in JavaScript:
-'https://github.com/new?' + new URLSearchParams({
-  template_owner: 'skills',
-  template_name: 'github-pages',
-  owner: '@me',
-  name: 'skills-github-pages',
-  description: 'My clone repository',
-  visibility: 'public',
-}).toString()
--->
+适用场景
 
-[![start-course](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/new?template_owner=skills&template_name=github-pages&owner=%40me&name=skills-github-pages&description=My+clone+repository&visibility=public)
+1. 电商平台与独立商家
 
-1. Right-click **Start course** and open the link in a new tab.
-2. In the new tab, most of the prompts will automatically fill in for you.
-   - For owner, choose your personal account or an organization to host the repository.
-   - We recommend creating a public repository, as private repositories will [use Actions minutes](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
-   - Scroll down and click the **Create repository** button at the bottom of the form.
-3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
+无论是大型电商平台还是个体创业者，稳定的支付系统对于日常交易至关重要。
 
-<footer>
+2. 线下商家的数字化转型
 
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+实体店可以集成数字支付解决方案，如二维码支付、POS 终端收款等，提高运营效率。
 
----
+3. 订阅制与共享经济服务
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+共享单车、在线教育、会员订阅等商业模式需要安全、顺畅的支付流程。
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+4. SaaS 平台与 B2B 交易
 
-</footer>
+SaaS 平台通常需要内嵌支付功能，租赁支付系统可帮助这些平台快速落地，而无需额外开发。
+
+如何选择合适的支付系统租赁服务？
+
+支持的支付方式 - 确保兼容主流支付网关，如 PayPal、Stripe、支付宝、微信支付和信用卡。
+
+安全与合规性 - 选择符合 PCI DSS 等安全标准的供应商。
+
+技术支持与维护 - 确保提供可靠的技术支持，保障系统稳定运行。
+
+成本与价值 - 选择符合业务规模和交易量的定价模式。
+
+结论
+
+支付系统租赁可帮助企业专注于核心业务，而无需承担支付基础设施的开发和维护成本。对于希望快速进入市场、降低运营成本的企业来说，这是一个高效且经济的选择。如果您正在考虑搭建支付系统，不妨尝试支付系统租赁，让支付变得更加简单！
